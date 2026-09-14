@@ -196,6 +196,70 @@
 
 ---
 
+### 🕹️ Playable Arena: Challenge the Aadeesh AI Bot!
+
+<p align="center">
+  <b>Can you beat the Minimax Neural Bot right inside this README?</b><br/>
+  <i>Click any empty white tile (<code>⬜</code>) to make your move as <b>❌</b>!</i>
+</p>
+
+<!-- TIC-TAC-TOE:START -->
+<div align="center">
+
+🟢 **Game in Progress:** Your turn! You are playing as **❌ (Player)** against **⭕ (Aadeesh AI Bot)**.<br/>👉 *Click any empty white tile (`⬜`) to make your move.*
+
+<br/>
+
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| :---: | :---: | :---: |
+| &nbsp;&nbsp;[⬜](https://github.com/Itsmeaadeesh/itsmeaadeesh/issues/new?title=ttc%7C0%7C0&body=Click+%22Submit+new+issue%22+to+place+your+move+at+row+0%2C+col+0.)&nbsp;&nbsp; | &nbsp;&nbsp;[⬜](https://github.com/Itsmeaadeesh/itsmeaadeesh/issues/new?title=ttc%7C0%7C1&body=Click+%22Submit+new+issue%22+to+place+your+move+at+row+0%2C+col+1.)&nbsp;&nbsp; | &nbsp;&nbsp;[⬜](https://github.com/Itsmeaadeesh/itsmeaadeesh/issues/new?title=ttc%7C0%7C2&body=Click+%22Submit+new+issue%22+to+place+your+move+at+row+0%2C+col+2.)&nbsp;&nbsp; |
+| &nbsp;&nbsp;[⬜](https://github.com/Itsmeaadeesh/itsmeaadeesh/issues/new?title=ttc%7C1%7C0&body=Click+%22Submit+new+issue%22+to+place+your+move+at+row+1%2C+col+0.)&nbsp;&nbsp; | &nbsp;&nbsp;[⬜](https://github.com/Itsmeaadeesh/itsmeaadeesh/issues/new?title=ttc%7C1%7C1&body=Click+%22Submit+new+issue%22+to+place+your+move+at+row+1%2C+col+1.)&nbsp;&nbsp; | &nbsp;&nbsp;[⬜](https://github.com/Itsmeaadeesh/itsmeaadeesh/issues/new?title=ttc%7C1%7C2&body=Click+%22Submit+new+issue%22+to+place+your+move+at+row+1%2C+col+2.)&nbsp;&nbsp; |
+| &nbsp;&nbsp;[⬜](https://github.com/Itsmeaadeesh/itsmeaadeesh/issues/new?title=ttc%7C2%7C0&body=Click+%22Submit+new+issue%22+to+place+your+move+at+row+2%2C+col+0.)&nbsp;&nbsp; | &nbsp;&nbsp;[⬜](https://github.com/Itsmeaadeesh/itsmeaadeesh/issues/new?title=ttc%7C2%7C1&body=Click+%22Submit+new+issue%22+to+place+your+move+at+row+2%2C+col+1.)&nbsp;&nbsp; | &nbsp;&nbsp;[⬜](https://github.com/Itsmeaadeesh/itsmeaadeesh/issues/new?title=ttc%7C2%7C2&body=Click+%22Submit+new+issue%22+to+place+your+move+at+row+2%2C+col+2.)&nbsp;&nbsp; |
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/Itsmeaadeesh/itsmeaadeesh/issues/new?title=ttc%7Creset&body=Click+%22Submit+new+issue%22+to+reset+the+game+board.">
+    <img src="https://img.shields.io/badge/🔄_Start_New_Game-00F2FE?style=for-the-badge&logoColor=black" alt="Restart Game" />
+  </a>
+</p>
+
+<p align="center">
+<b>🎮 Total Games:</b> 0 &nbsp;|&nbsp; <b>🏆 Visitor Wins:</b> 0 &nbsp;|&nbsp; <b>🤖 Bot Wins:</b> 0 &nbsp;|&nbsp; <b>🤝 Draws:</b> 0
+</p>
+
+</div>
+<!-- TIC-TAC-TOE:END -->
+
+---
+
+### 📅 Book a 1:1 Session & Mentorship
+
+<div align="center">
+
+  <p>
+    Whether you are a <b>student looking for tech roadmaps & career guidance</b>, an <b>event organizer planning a workshop</b>,<br/>
+    or a <b>recruiter exploring high-impact software engineering roles</b> — let's connect!
+  </p>
+
+  <p align="center">
+    <a href="https://topmate.io/itsmeaadeesh" target="_blank">
+      <img src="https://img.shields.io/badge/Topmate-Book_Mentorship_1:1-FF5722?style=for-the-badge&logo=target&logoColor=white" alt="Topmate 1:1" />
+    </a>
+    &nbsp;
+    <a href="https://cal.com/itsmeaadeesh" target="_blank">
+      <img src="https://img.shields.io/badge/Cal.com-Schedule_Meeting-292929?style=for-the-badge&logo=calendar&logoColor=white" alt="Cal.com Schedule" />
+    </a>
+    &nbsp;
+    <a href="mailto:itsmeaadeesh@gmail.com?subject=Mentorship%20/%20Speaking%20Inquiry%20-%20Aadeesh%20Jain">
+      <img src="https://img.shields.io/badge/Campus_Speaking-Invite_to_Talk-7928CA?style=for-the-badge&logo=googlemeet&logoColor=white" alt="Invite Speaker" />
+    </a>
+  </p>
+
+</div>
+
+---
+
 ### 🎮 Easter Eggs, Terminal Wisdom & Lore
 
 <details>
@@ -262,3 +326,4 @@ graph LR
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,15,2,0&height=120&section=footer&theme=tokyonight" width="100%" />
 
 </div>
+

@@ -1,0 +1,28 @@
+{
+  "board": [
+    [
+      " ",
+      " ",
+      " "
+    ],
+    [
+      " ",
+      " ",
+      " "
+    ],
+    [
+      " ",
+      " ",
+      " "
+    ]
+  ],
+  "stats": {
+    "user_wins": 0,
+    "bot_wins": 0,
+    "draws": 0,
+    "total_games": 0
+  },
+  "last_player": "Aadeesh",
+  "game_over": false,
+  "winner": null
+}
